@@ -1,4 +1,4 @@
 public class df {
-    ihhhiuu
+    //
+    int i=0;
 }
-
